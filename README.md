@@ -1,2 +1,3 @@
 # library
-atcoder用pythonライブラリ
+
+自分用のpythonライブラリ
